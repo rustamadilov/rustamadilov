@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rustam Adilov</h1>
 <h3 align="center">A passionate Data Engineer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHcxcndkdHVrOW5pZzRzOGRtMW85N2JmOGc4ZDZuNDU2b29rNmVyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
 
 - 🌱 I’m currently learning **Airflow, PostgreSQL, Python(Pandas,Numpy)**
 

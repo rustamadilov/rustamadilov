@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Airflow, PostgreSQL, Python(Pandas,Numpy)**
 
-- 📫 How to reach me **rstmadylov@gmail.com**
+- 📫 How to reach me **https://t.me/rustamadilov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

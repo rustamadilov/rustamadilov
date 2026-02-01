@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rustam Adilov</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Data/Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHcxcndkdHVrOW5pZzRzOGRtMW85N2JmOGc4ZDZuNDU2b29rNmVyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif">
 
 - 📫 How to reach me **https://t.me/rustamadilov**

@@ -59,5 +59,3 @@
 </p>
 
 ---
-
-⭐ Always open to learning, building, and solving hard problems.

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rustam Adilov</h1>
-<h3 align="center">Data Engineer | Backend Software Engineer</h3>
+<h3 align="center">Data Engineer | Software Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/adilovrustam">
@@ -17,8 +17,6 @@
 - 💼 **Data Engineer at Ucell (COSCOM)**
 - ⚙️ Building **scalable data pipelines & backend systems**
 - 📊 Experience with **Big Data, Distributed Systems, ETL**
-- 🎯 Targeting **FAANG-level Software / Data Engineering roles**
-
 ---
 
 ### 🛠 Tech Stack
